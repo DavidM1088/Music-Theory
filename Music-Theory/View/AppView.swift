@@ -30,10 +30,11 @@ struct AppView : View {
             .tabItem {
                 Label("Cadences", image: "cadences")
             }
-//            DegreeView()
-//            .tabItem {
-//                Label("Triads", systemImage: "music.quarternote.3")
-//            }
+            MidiTest()
+            .tabItem {
+                Label("Midi Test", image: "")
+            }
+
         }
         .navigationViewStyle(StackNavigationViewStyle())
     }

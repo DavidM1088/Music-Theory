@@ -57,7 +57,7 @@ struct IntervalView: View {
             let note1 = Note(num: scale.notes[0].num + note1ScaleOffset)
             
             var note2Distance = Int.random(in: -12..<12)
-            note2Distance = 11
+            //note2Distance = -2
             if note2Distance == 0 {
                 continue
             }

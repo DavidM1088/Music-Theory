@@ -19,6 +19,7 @@
 		7B7306E329D3A73400342490 /* Songs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B7306E229D3A73400342490 /* Songs.swift */; };
 		7B7306E529D3F3F400342490 /* SetKeyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B7306E429D3F3F400342490 /* SetKeyView.swift */; };
 		7B7306E729D54ADF00342490 /* UICommons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B7306E629D54ADF00342490 /* UICommons.swift */; };
+		7B7306E929DE88DA00342490 /* MidiTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B7306E829DE88DA00342490 /* MidiTest.swift */; };
 		7B7BB79027756D4900DB5339 /* Key.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B7BB78F27756D4900DB5339 /* Key.swift */; };
 		7B83748F26D37C8700822DBB /* DegreeTriadsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B83748E26D37C8700822DBB /* DegreeTriadsView.swift */; };
 		7B83749326D37E1C00822DBB /* Chord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B83749226D37E1C00822DBB /* Chord.swift */; };
@@ -51,6 +52,7 @@
 		7B7306E229D3A73400342490 /* Songs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Songs.swift; sourceTree = "<group>"; };
 		7B7306E429D3F3F400342490 /* SetKeyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetKeyView.swift; sourceTree = "<group>"; };
 		7B7306E629D54ADF00342490 /* UICommons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UICommons.swift; sourceTree = "<group>"; };
+		7B7306E829DE88DA00342490 /* MidiTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MidiTest.swift; sourceTree = "<group>"; };
 		7B7BB78F27756D4900DB5339 /* Key.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Key.swift; sourceTree = "<group>"; };
 		7B83748E26D37C8700822DBB /* DegreeTriadsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DegreeTriadsView.swift; sourceTree = "<group>"; };
 		7B83749226D37E1C00822DBB /* Chord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chord.swift; sourceTree = "<group>"; };
@@ -156,6 +158,7 @@
 				7B6345242814729B00D7690F /* DegreeView.swift */,
 				7B7306E429D3F3F400342490 /* SetKeyView.swift */,
 				7B7306E629D54ADF00342490 /* UICommons.swift */,
+				7B7306E829DE88DA00342490 /* MidiTest.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -243,6 +246,7 @@
 				7BC7551528178DEA00007B7C /* DegreesSelect.swift in Sources */,
 				7B83749326D37E1C00822DBB /* Chord.swift in Sources */,
 				7B36C0B026B5094C0040B87B /* KeySignature.swift in Sources */,
+				7B7306E929DE88DA00342490 /* MidiTest.swift in Sources */,
 				7BC9029C26C78DB100E7A6D8 /* Interval.swift in Sources */,
 				7BB2E5D726B504F500EF7F37 /* Persistence.swift in Sources */,
 				7BC9029626C78A4200E7A6D8 /* IntervalView.swift in Sources */,
